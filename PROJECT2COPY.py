@@ -1,4 +1,3 @@
-# Code by: Gabriel I. Calvente Tenorio and Alejandro Perez Pabón
 def Project2():
     CMD_BED = 'b'
     CMD_CLOSE = 'c'
